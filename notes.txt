@@ -4,8 +4,12 @@ git config --global user.email 'indhujakanna2005@gmail.com'
 git init //helps to initialize local repo
 git clone//clones the file in local repo
 
+git status
+git reset 
+git add . // add all the files in the current folder
+git push //changes made in local repo implemented  to cloud repo
 
-git reset
+git pull //changes made in cloud repo is implemented to local repo
 
-git push origin remote
+
 
