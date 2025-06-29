@@ -11,5 +11,20 @@ git push //changes made in local repo implemented  to cloud repo
 
 git pull //changes made in cloud repo is implemented to local repo
 
+git checkout -b "frontend" //create new branch
+git branch//know the current branch where you are in
 
-
+------git branch
+* main
+------git checkout -b "frontend"
+Switched to a new branch 'frontend'
+------git branch
+* frontend
+  main
+------git checkout main         
+M       notes.txt
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+------git branch       
+  frontend
+* main
