@@ -1,0 +1,11 @@
+git --version
+git config --global user.name 'Indhuja'
+git config --global user.email 'indhujakanna2005@gmail.com'
+git init //helps to initialize local repo
+git clone//clones the file in local repo
+
+
+git reset
+
+git push origin remote
+
